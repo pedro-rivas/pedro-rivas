@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @pedro-rivas
+- 👋 Hi, I’m @pedro-rivas, professional trainer & self taught developer.
+- 🏋🏻 Workout for free with [fitzome](https://github.com/pedro-rivas/fitzome).
 - 📫 Reach me pedrocfyd@gmail.com
 
 <!---
