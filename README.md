@@ -5,4 +5,4 @@
 https://www.pedro-rivas.dev/
 
 - 🏋🏻 Workout for free with [fitzome](https://github.com/pedro-rivas/fitzome/tree/dev).
-- 📫 Reach me at pedrocfyd@gmail.com
+- 📫 Reach me out at pedrocfyd@gmail.com
